@@ -11,6 +11,7 @@
     <modules>
         <module>spring-core</module>
         <module>spring-mvc</module>
+        <module>spring-boot</module>
     </modules>
 
     <properties>
